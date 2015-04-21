@@ -1,1 +1,1 @@
-# multiple-synthetic-light
+# multiple-synthetic-lights
